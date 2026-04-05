@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realtre&show_icons=true&theme=radical">
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RealTRE&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 ## 🧑‍💻Languages
 <div align="left">
